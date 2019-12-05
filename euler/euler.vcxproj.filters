@@ -19,4 +19,39 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="one.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="two.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="three.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="five.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="four.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="six.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="seven.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="eight.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="nine.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ten.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="eleven.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
